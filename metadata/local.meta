@@ -1,0 +1,7 @@
+[app/ui]
+owner = admin
+version = 4.2
+
+[app/launcher]
+owner = admin
+version = 4.2
